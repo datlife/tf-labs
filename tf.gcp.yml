@@ -1,6 +1,6 @@
 plugin: gcp_compute
 projects:
-  - infra-20210121-student13xinnov
+  - terraform-ansible-jenkin
 auth_kind: serviceaccount
 service_account_file: ./creds/jenkins-sa.json
 filters: []
